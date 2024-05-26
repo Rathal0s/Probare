@@ -1,14 +1,21 @@
 AOS.init();
 
 const stringsArray = [
-    "Insanity",
-    "Ferocity",
-    "Anxiety",
-    "Cruelty",
-    "Disparity",
-    "Impurity",
-    "Insecurity",
-    "Adversity",
+    "Assault",
+    "Homicide",
+    "Fraud",
+    "Profanity",
+    "Theft",
+    "Bribery",
+    "Terrorist",
+    "Evasion",
+    "Laundering",
+    "Suspicion",
+    "Stalking",
+    "Neglect",
+    "Abuse",
+    "Violance",
+    
 ];
 
 // Shuffle the array using Fisher-Yates algorithm
